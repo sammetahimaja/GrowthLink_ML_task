@@ -27,10 +27,9 @@ This project develops a machine learning model to classify SMS messages as eithe
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository_url>
-    cd <repository_name>
+    git clone https://github.com/sammetahimaja/GrowthLink_ML_task
+    cd GrwothLink_ML_task
     ```
-    (Replace `<repository_url>` with the actual URL of this repository and `<repository_name>` with the name of the cloned directory).
 
 2.  **Create a virtual environment (recommended):**
     ```bash
@@ -53,7 +52,7 @@ This project develops a machine learning model to classify SMS messages as eithe
     jupyter notebook
     ```
 
-2.  **Navigate to and open `your_notebook_name.ipynb`.**
+2.  **Navigate to and open `Spam_detection.ipynb`.**
 
 3.  **Run the notebook cells sequentially to execute the spam detection pipeline.**
 
