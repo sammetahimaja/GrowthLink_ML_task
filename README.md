@@ -59,9 +59,13 @@ This project develops a machine learning model to classify SMS messages as eithe
 
 ## Project Structure
 Spam Detection Project/
+
 ├── Spam_detection.ipynb   # Jupyter Notebook with the project code
+
 ├── requirements.txt           # List of Python dependencies
+
 ├── spam.csv                   # Dataset of SMS messages
+
 └── README.md                  # This README file
 
 ## Code Highlights
