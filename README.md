@@ -45,30 +45,21 @@ This project develops a machine learning model to classify SMS messages as eithe
 
 4.  **Ensure the dataset (`spam.csv`) is in the project directory.**
 
+
 ### Running the Code
-
-1.  **Open the Jupyter Notebook:**
-    ```bash
-    jupyter notebook
-    ```
-
-2.  **Navigate to and open `Spam_detection.ipynb`.**
-
-3.  **Run the notebook cells sequentially to execute the spam detection pipeline.**
-### Running the Code
-1. **Install Jupyter Notebook:
+1. **Install Jupyter Notebook:**
     ```bash
     pip install notebook
     ```
 
-2. **Open the Jupyter Notebook:
+2. **Open the Jupyter Notebook:**
       ```bash
      jupyter notebook
       ```
 
-3. **Navigate to and open Spam_detection.ipynb.
+3. **Navigate to and open Spam_detection.ipynb.**
 
-4. **Run the notebook to execute the spam detection pipeline.
+4. **Run the notebook to execute the spam detection pipeline.**
 
 ## Project Structure
 Spam Detection Project/
