@@ -28,7 +28,7 @@ This project develops a machine learning model to classify SMS messages as eithe
 1.  **Clone the repository:**
     ```bash
     git clone https://github.com/sammetahimaja/GrowthLink_ML_task
-    cd GrwothLink_ML_task
+    cd GrowthLink_ML_task
     ```
 
 2.  **Create a virtual environment (recommended):**
