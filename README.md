@@ -1,4 +1,3 @@
-#  GrwothLink_ML_Task
 # Spam Detection Project
 
 ## Overview
